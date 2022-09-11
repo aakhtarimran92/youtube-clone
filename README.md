@@ -9,3 +9,11 @@ This project is inspired by Javascript Mastry (adrianhajdin) and totally is a le
 > Video Tutorial Link :  [**https://www.youtube.com/watch?v=FHTbsZEJspU&t=40s**](https://www.youtube.com/watch?v=FHTbsZEJspU&t=40s)
 > 
 > RapidApi :  [**https://rapidapi.com/ytdlfree/api/youtube-v3**](https://rapidapi.com/ytdlfree/api/youtube-v3)
+
+**Note:** 
+
+1.  Install all dependency on existing projects
+
+```npmrc
+npm install --legacy-peer-dep
+```
