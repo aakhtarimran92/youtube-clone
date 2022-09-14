@@ -19,11 +19,7 @@ const Navbar = () => {
       }}
     >
       <Link to="/" style={{ display: "flex", alignItems: "center" }}>
-        <img
-          src={require("../assets/logo.png")}
-          alt="Youtube Clone Logo"
-          height={45}
-        />
+        <img src={logo} alt="Youtube Clone Logo" height={45} />
         <SearchBar />
       </Link>
     </Stack>
