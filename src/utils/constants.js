@@ -17,7 +17,7 @@ export const logo = require("../assets/logo.png");
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
   { name: "JS Mastery", icon: <CodeIcon /> },
-  { name: "Coding", icon: <CodeIcon /> },
+  { name: "DurgaSoftwareSolutions", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
